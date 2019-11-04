@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "marked": "*",
-    "simplemde": "*"
+    "simplemde": "mikqi/simplemde-markdown-editor"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",

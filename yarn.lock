@@ -7371,6 +7371,14 @@ simplemde@*:
     codemirror-spell-checker "*"
     marked "*"
 
+simplemde@mikqi/simplemde-markdown-editor:
+  version "1.11.2"
+  resolved "https://codeload.github.com/mikqi/simplemde-markdown-editor/tar.gz/cbcf8b851ccb2c94826c528b70def0f7aa0b8551"
+  dependencies:
+    codemirror "*"
+    codemirror-spell-checker "*"
+    marked "*"
+
 slash@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-1.0.0.tgz#c41f2f6c39fc16d1cd17ad4b5d896114ae470d55"
